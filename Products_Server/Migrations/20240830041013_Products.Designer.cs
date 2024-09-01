@@ -11,7 +11,7 @@ using Products_Server.Models;
 namespace Products_Server.Migrations
 {
     [DbContext(typeof(ProductsContext))]
-    [Migration("20240829154358_Products")]
+    [Migration("20240830041013_Products")]
     partial class Products
     {
         /// <inheritdoc />
